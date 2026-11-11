@@ -11,7 +11,7 @@
 ██████████████████████████████████████████████████████
 ```
 
-![severity](https://img.shields.io/badge/Severity-HIGH-red?style=flat-square&logo=bugcrowd)
+![severity](https://img.shields.io/badge/Severity-CRITICAL-red?style=flat-square&logo=bugcrowd)
 ![technique](https://img.shields.io/badge/MITRE-T1562.001%20%2F%20T1112-blueviolet?style=flat-square)
 ![privileges](https://img.shields.io/badge/Privileges-Local%20Admin-orange?style=flat-square)
 ![status](https://img.shields.io/badge/Status-Reported%20·%20Fix%20In%20Progress-yellow?style=flat-square)
