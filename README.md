@@ -1,15 +1,15 @@
 <div align="center">
 
-```
-██████████████████████████████████████████████████████
-█                                                    █
-█   EDR TAMPER BYPASS                                █
-█   Registry Start Value · Driver Disablement        █
-█                                                    █
-█   T1562.001 / T1112          SEVERITY: CRITICAL    █
-█                                                    █
-██████████████████████████████████████████████████████
-```
+                ```
+                ██████████████████████████████████████████████████████
+                █                                                    █
+                █   EDR TAMPER BYPASS                                █
+                █   Registry Start Value · Driver Disablement        █
+                █                                                    █
+                █   T1562.001 / T1112          SEVERITY: CRITICAL    █
+                █                                                    █
+                ██████████████████████████████████████████████████████
+                ```
 
 ![severity](https://img.shields.io/badge/Severity-CRITICAL-red?style=flat-square&logo=bugcrowd)
 ![technique](https://img.shields.io/badge/MITRE-T1562.001%20%2F%20T1112-blueviolet?style=flat-square)
